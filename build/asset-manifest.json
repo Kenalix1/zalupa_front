@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c37e592.css",
+    "main.js": "/static/js/main.2e2a031f.js",
+    "static/media/AtomicAlice-Light.eot": "/static/media/AtomicAlice-Light.1b1a053ddc3ac28241de.eot",
+    "static/media/AtomicAlice-Light.ttf": "/static/media/AtomicAlice-Light.2a359ce2d2d1ebc2fd14.ttf",
+    "static/media/AtomicAlice-Regular.eot": "/static/media/AtomicAlice-Regular.00c2b654728fbd220f07.eot",
+    "static/media/AtomicAlice-Regular.ttf": "/static/media/AtomicAlice-Regular.df603a47a568850c5415.ttf",
+    "static/media/AtomicAlice-Medium.eot": "/static/media/AtomicAlice-Medium.409faaf088ec5de3fd27.eot",
+    "static/media/AtomicAlice-Medium.ttf": "/static/media/AtomicAlice-Medium.6d8179b09840d4dee8a1.ttf",
+    "static/media/AtomicAlice-Bold.eot": "/static/media/AtomicAlice-Bold.5bbacebd3124a8649d28.eot",
+    "static/media/AtomicAlice-Bold.ttf": "/static/media/AtomicAlice-Bold.3b6960b40bee36e3c911.ttf",
+    "static/media/AtomicAlice-Medium.woff": "/static/media/AtomicAlice-Medium.0cf6ab7be8e96f84b45b.woff",
+    "static/media/AtomicAlice-Light.woff": "/static/media/AtomicAlice-Light.3262b15bcf8a1beac4be.woff",
+    "static/media/AtomicAlice-Bold.woff": "/static/media/AtomicAlice-Bold.ef485fedcb231f81b78a.woff",
+    "static/media/AtomicAlice-Regular.woff": "/static/media/AtomicAlice-Regular.6cb699977cb6f7be2e16.woff",
+    "index.html": "/index.html",
+    "main.3c37e592.css.map": "/static/css/main.3c37e592.css.map",
+    "main.2e2a031f.js.map": "/static/js/main.2e2a031f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c37e592.css",
+    "static/js/main.2e2a031f.js"
+  ]
+}
