@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3c37e592.css",
-    "main.js": "/static/js/main.2e2a031f.js",
+    "main.css": "/static/css/main.139c41cb.css",
+    "main.js": "/static/js/main.5edcf2a7.js",
     "static/media/AtomicAlice-Light.eot": "/static/media/AtomicAlice-Light.1b1a053ddc3ac28241de.eot",
     "static/media/AtomicAlice-Light.ttf": "/static/media/AtomicAlice-Light.2a359ce2d2d1ebc2fd14.ttf",
     "static/media/AtomicAlice-Regular.eot": "/static/media/AtomicAlice-Regular.00c2b654728fbd220f07.eot",
@@ -15,11 +15,11 @@
     "static/media/AtomicAlice-Bold.woff": "/static/media/AtomicAlice-Bold.ef485fedcb231f81b78a.woff",
     "static/media/AtomicAlice-Regular.woff": "/static/media/AtomicAlice-Regular.6cb699977cb6f7be2e16.woff",
     "index.html": "/index.html",
-    "main.3c37e592.css.map": "/static/css/main.3c37e592.css.map",
-    "main.2e2a031f.js.map": "/static/js/main.2e2a031f.js.map"
+    "main.139c41cb.css.map": "/static/css/main.139c41cb.css.map",
+    "main.5edcf2a7.js.map": "/static/js/main.5edcf2a7.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c37e592.css",
-    "static/js/main.2e2a031f.js"
+    "static/css/main.139c41cb.css",
+    "static/js/main.5edcf2a7.js"
   ]
 }
